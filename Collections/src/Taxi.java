@@ -3,8 +3,8 @@ import CarBuid.*;
 import java.util.*;
 
 public class Taxi {
-    private List<Car> car;
-    private Object Car;
+    private List<? extends  Car> cars;
+
 
     public Taxi(List<Car> car) {
 
@@ -20,18 +20,32 @@ public class Taxi {
         return finalPrice;
     }
 
-    public Taxi sortByFuelConsuption(){
+    public Taxi sortByPrice(List<Car> cars){
 
-    Collections.sort(List, (o1, o2) -> {
-         if(o1.getPrice() > o2.getPrice())
-             return 1;
-         else if (o1.getPrice()< o2.getPrice())
-             return -1;
-         else return 0;
-     });
+    cars.sort((o1, o2) -> {
+        if (o1.getPrice() > o2.getPrice())
+            return 1;
+        else if (o1.getPrice() < o2.getPrice())
+            return -1;
+        else return 0;
+    });
     return  this;
 
     }
+
+    public void sortByYearOfProd(List<Car> cars, int beginOfProd, int endOfProd){
+        List<Car> result = new ArrayList<>();
+        for (Car car : cars){
+            if(car.getYearOfProduced() >= beginOfProd && car.getYearOfProduced() <= endOfProd){
+                result.add(car);
+            }
+        }
+        for (Car car : result) {
+            System.out.println(car);
+
+            }
+    }
+
 
 
 }

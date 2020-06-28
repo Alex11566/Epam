@@ -12,14 +12,7 @@ public class ComfortClass extends  Car{
 
     }
 
-    @Override
-    public String toString() {
-        return "ComfortClass{" +
-                "model=" + model +
-                ", priceOfRide=" + priceOfRide +
-                ", maxPeopleInCar=" + maxPeopleInCar +
-                '}';
-    }
+
 
     public Model getModel() {
         return model;

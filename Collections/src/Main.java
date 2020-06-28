@@ -19,10 +19,10 @@ public class Main {
        // System.out.println(Taxi.priceOfTaxi(car));
         taxi.sortByPrice(car);
 
-//        for (Car cars : car) {
-//            System.out.println(cars);
+        for (Car cars : car) {
+           System.out.println(cars);
 
-        //}
+        }
 
 
         taxi.sortByYearOfProd(car, 2013, 2019);

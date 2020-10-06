@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf34c2a-8493-43df-897d-315412b6b300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Collections" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Airlines-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -72,61 +71,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" width="816" height="729" key="#Intentions" timestamp="1586677637844">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601997408582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586677637844" />
-    <state x="552" y="178" key="#Project_Structure" timestamp="1586674993844">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586674993844" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1586679905469">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586679905469" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593336959895">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1593336959895" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1586701134209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134209" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1586701134209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134209" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1586701134209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134209" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1586701134209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134209" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586701134210">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134210" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586701134209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134209" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586701134209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134209" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586701134209">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1586701134209" />
-    <state x="656" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1593336950491">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="339" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1593336950491" />
-    <state x="342" y="140" key="new project wizard" timestamp="1593239202161">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="140" key="new project wizard/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1593239202161" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1601997408582" />
   </component>
 </project>

@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Parking {
     private static final boolean[] PLACES = new boolean[10];
-    private static final Semaphore SEMAPHORE = new Semaphore(10, true);
+    private static final Semaphore SEMAPHORE = new Semaphore(PLACES.length, true);
 
 
     public static boolean[] getPLACES() {

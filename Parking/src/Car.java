@@ -1,6 +1,6 @@
 import java.util.concurrent.TimeUnit;
 
-public class Car extends Thread {
+public class Car implements Runnable {
     private int numberCar;
 
     public Car (int numberCar){

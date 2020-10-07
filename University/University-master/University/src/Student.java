@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Student {
+public class   Student {
     private String name;
     private Map<String, List<Integer>> academicPerformance = new HashMap<>();
 
